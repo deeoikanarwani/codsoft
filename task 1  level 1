@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>creative marketing </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: turquoise;
+    }
+    .header {
+      background-color: white;
+      padding: 2%;
+    }
+    .container {
+      max-width: auto;
+      margin: 0 auto;
+      padding: 2%;
+      text-align: center;
+    }
+    .content {
+      margin-top: 2rem;
+    }
+    .button {
+      /* display: inline-block; */
+      padding: 1rem 2rem;
+      background-color: #333;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a
+    {
+      margin-left: 25px;
+      display: flexbox;
+      text-decoration: none;
+      font-size: 20px;
+    }
+    img
+    {
+      height: 50px;
+      width: 50px;
+    }
+    input{
+      size: 50px;
+      margin-left: 10%;
+      /* padding: 10px, 100px, 0px, 200px; */
+      padding-right: 20%;
+      padding-top: 15px;
+      border-color: none;
+      border-width: 0px;
+      background-color: rgb(225, 236, 248);
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <nav>
+    <a><img src = "https://akm-img-a-in.tosshub.com/sites/ichowk/fb_feed_images/story_image/202101/myntra-1820_013021105428.jpg?size=1200:900"></a>
+
+        <a href="#home">Men</a>
+        <a href="#blog">Women</a>
+        <a href="#services">Kids</a>
+        <a href="#page">Home & Living</a>
+        <a href="#testimonials">Beauty</a>
+        <a href="#contact">Studio</a>
+        <input type="text" placeholder="Search for product, brands and more.... ">
+    </nav>
+  </div>
+  <p>Discover amazing things with us!</p>
+  <div class="container">
+    <div class="content">
+      <h2>About Us</h2>
+      <h4>15 years, we passionate about achieving better result for our clients</h4>
+<p>learn creating digital agency</p>
+      <a href="#" class="button">Learn More</a>
+    </div>
+  </div>
+</body>
+</html>
